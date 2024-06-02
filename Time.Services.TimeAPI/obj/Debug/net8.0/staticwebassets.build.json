@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1oIK84ZuhriRDIEamzhiF4QWfOKPyCGBQeMA/bMUoWo=",
+  "Source": "Time.Services.TimeAPI",
+  "BasePath": "_content/Time.Services.TimeAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

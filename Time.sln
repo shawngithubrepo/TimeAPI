@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{EFC9E672-F1E0-4A6D-B180-693B63F8A892}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Time.Services.TimeAPI", "Time.Services.TimeAPI\Time.Services.TimeAPI.csproj", "{50A8255E-99A5-441C-92E4-B8E4BDEF290B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeAPI.Tests", "TimeAPI.Tests\TimeAPI.Tests.csproj", "{ECA3031B-FCF3-458C-BDCD-244C001D92E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50A8255E-99A5-441C-92E4-B8E4BDEF290B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A8255E-99A5-441C-92E4-B8E4BDEF290B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A8255E-99A5-441C-92E4-B8E4BDEF290B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A8255E-99A5-441C-92E4-B8E4BDEF290B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA3031B-FCF3-458C-BDCD-244C001D92E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA3031B-FCF3-458C-BDCD-244C001D92E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA3031B-FCF3-458C-BDCD-244C001D92E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA3031B-FCF3-458C-BDCD-244C001D92E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{50A8255E-99A5-441C-92E4-B8E4BDEF290B} = {EFC9E672-F1E0-4A6D-B180-693B63F8A892}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C456AEB5-21A3-4692-82FB-CFDB870371A1}
+	EndGlobalSection
+EndGlobal

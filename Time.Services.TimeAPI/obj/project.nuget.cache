@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "163Y7HFJ7l4ORc0k+eVxaO8C0SOK99gjhSYMbjwfj81PHLytP4iWOejJyI3d1wsO5vtTUUaORW4vgKXqQW5xKw==",
+  "success": true,
+  "projectFilePath": "C:\\code\\Time\\Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bigda\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\1.2.1\\microsoft.testing.extensions.telemetry.1.2.1.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\1.2.1\\microsoft.testing.extensions.trxreport.abstractions.1.2.1.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\1.2.1\\microsoft.testing.extensions.vstestbridge.1.2.1.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\microsoft.testing.platform\\1.2.1\\microsoft.testing.platform.1.2.1.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\microsoft.testing.platform.msbuild\\1.2.1\\microsoft.testing.platform.msbuild.1.2.1.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\mstest.testadapter\\3.4.3\\mstest.testadapter.3.4.3.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\mstest.testframework\\3.4.3\\mstest.testframework.3.4.3.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\nodatime\\3.1.11\\nodatime.3.1.11.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\bigda\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

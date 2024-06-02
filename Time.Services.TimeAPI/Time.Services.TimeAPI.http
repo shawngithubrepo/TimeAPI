@@ -1,0 +1,6 @@
+@Time.Services.TimeAPI_HostAddress = http://localhost:5103
+
+GET {{Time.Services.TimeAPI_HostAddress}}/time/
+Accept: application/json
+
+###

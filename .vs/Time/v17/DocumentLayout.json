@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\Time\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA3031B-FCF3-458C-BDCD-244C001D92E0}|TimeAPI.Tests\\TimeAPI.Tests.csproj|C:\\code\\Time\\timeapi.tests\\servicestests\\timeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA3031B-FCF3-458C-BDCD-244C001D92E0}|TimeAPI.Tests\\TimeAPI.Tests.csproj|solutionrelative:timeapi.tests\\servicestests\\timeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA3031B-FCF3-458C-BDCD-244C001D92E0}|TimeAPI.Tests\\TimeAPI.Tests.csproj|C:\\code\\Time\\timeapi.tests\\integrationtests\\timecontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA3031B-FCF3-458C-BDCD-244C001D92E0}|TimeAPI.Tests\\TimeAPI.Tests.csproj|solutionrelative:timeapi.tests\\integrationtests\\timecontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA3031B-FCF3-458C-BDCD-244C001D92E0}|TimeAPI.Tests\\TimeAPI.Tests.csproj|C:\\code\\Time\\timeapi.tests\\controllertest\\timecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA3031B-FCF3-458C-BDCD-244C001D92E0}|TimeAPI.Tests\\TimeAPI.Tests.csproj|solutionrelative:timeapi.tests\\controllertest\\timecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|c:\\code\\time\\time.services.timeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|solutionrelative:time.services.timeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|C:\\code\\Time\\time.services.timeapi\\services\\iservice\\timeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|solutionrelative:time.services.timeapi\\services\\iservice\\timeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|C:\\code\\Time\\time.services.timeapi\\services\\iservice\\itimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|solutionrelative:time.services.timeapi\\services\\iservice\\itimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|C:\\code\\Time\\time.services.timeapi\\models\\dto\\timedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|solutionrelative:time.services.timeapi\\models\\dto\\timedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|C:\\code\\Time\\time.services.timeapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|solutionrelative:time.services.timeapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|C:\\code\\Time\\time.services.timeapi\\controllers\\timecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|solutionrelative:time.services.timeapi\\controllers\\timecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|C:\\code\\Time\\time.services.timeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|solutionrelative:time.services.timeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|C:\\code\\Time\\time.services.timeapi\\time.services.timeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|solutionrelative:time.services.timeapi\\time.services.timeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA3031B-FCF3-458C-BDCD-244C001D92E0}|TimeAPI.Tests\\TimeAPI.Tests.csproj|C:\\code\\Time\\timeapi.tests\\timeapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECA3031B-FCF3-458C-BDCD-244C001D92E0}|TimeAPI.Tests\\TimeAPI.Tests.csproj|solutionrelative:timeapi.tests\\timeapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA3031B-FCF3-458C-BDCD-244C001D92E0}|TimeAPI.Tests\\TimeAPI.Tests.csproj|C:\\code\\Time\\timeapi.tests\\timeapi.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{ECA3031B-FCF3-458C-BDCD-244C001D92E0}|TimeAPI.Tests\\TimeAPI.Tests.csproj|solutionrelative:timeapi.tests\\timeapi.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|C:\\code\\Time\\time.services.timeapi\\time.services.timeapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|solutionrelative:time.services.timeapi\\time.services.timeapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|C:\\code\\Time\\time.services.timeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50A8255E-99A5-441C-92E4-B8E4BDEF290B}|Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj|solutionrelative:time.services.timeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeServiceTests.cs",
+              "DocumentMoniker": "C:\\code\\Time\\TimeAPI.Tests\\ServicesTests\\TimeServiceTests.cs",
+              "RelativeDocumentMoniker": "TimeAPI.Tests\\ServicesTests\\TimeServiceTests.cs",
+              "ToolTip": "C:\\code\\Time\\TimeAPI.Tests\\ServicesTests\\TimeServiceTests.cs",
+              "RelativeToolTip": "TimeAPI.Tests\\ServicesTests\\TimeServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:28:49.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeControllerTests.cs",
+              "DocumentMoniker": "C:\\code\\Time\\TimeAPI.Tests\\ControllerTest\\TimeControllerTests.cs",
+              "RelativeDocumentMoniker": "TimeAPI.Tests\\ControllerTest\\TimeControllerTests.cs",
+              "ToolTip": "C:\\code\\Time\\TimeAPI.Tests\\ControllerTest\\TimeControllerTests.cs",
+              "RelativeToolTip": "TimeAPI.Tests\\ControllerTest\\TimeControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:23:59.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TimeAPI.Tests",
+              "DocumentMoniker": "C:\\code\\Time\\TimeAPI.Tests\\TimeAPI.Tests.csproj",
+              "RelativeDocumentMoniker": "TimeAPI.Tests\\TimeAPI.Tests.csproj",
+              "ToolTip": "C:\\code\\Time\\TimeAPI.Tests\\TimeAPI.Tests.csproj",
+              "RelativeToolTip": "TimeAPI.Tests\\TimeAPI.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T04:17:20.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TimeAPI.Tests",
+              "DocumentMoniker": "C:\\code\\Time\\TimeAPI.Tests\\TimeAPI.Tests.csproj",
+              "RelativeDocumentMoniker": "TimeAPI.Tests\\TimeAPI.Tests.csproj",
+              "ToolTip": "C:\\code\\Time\\TimeAPI.Tests\\TimeAPI.Tests.csproj",
+              "RelativeToolTip": "TimeAPI.Tests\\TimeAPI.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T04:17:10.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\code\\Time\\Time.Services.TimeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Time.Services.TimeAPI\\Program.cs",
+              "ToolTip": "C:\\code\\Time\\Time.Services.TimeAPI\\Program.cs",
+              "RelativeToolTip": "Time.Services.TimeAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:45:57.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Time.Services.TimeAPI.http",
+              "DocumentMoniker": "C:\\code\\Time\\Time.Services.TimeAPI\\Time.Services.TimeAPI.http",
+              "RelativeDocumentMoniker": "Time.Services.TimeAPI\\Time.Services.TimeAPI.http",
+              "ToolTip": "C:\\code\\Time\\Time.Services.TimeAPI\\Time.Services.TimeAPI.http",
+              "RelativeToolTip": "Time.Services.TimeAPI\\Time.Services.TimeAPI.http",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-01T05:15:08.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITimeService.cs",
+              "DocumentMoniker": "C:\\code\\Time\\Time.Services.TimeAPI\\Services\\IService\\ITimeService.cs",
+              "RelativeDocumentMoniker": "Time.Services.TimeAPI\\Services\\IService\\ITimeService.cs",
+              "ToolTip": "C:\\code\\Time\\Time.Services.TimeAPI\\Services\\IService\\ITimeService.cs",
+              "RelativeToolTip": "Time.Services.TimeAPI\\Services\\IService\\ITimeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:28:41.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Time.Services.TimeAPI.csproj",
+              "DocumentMoniker": "C:\\code\\Time\\Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj",
+              "RelativeDocumentMoniker": "Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj",
+              "ToolTip": "C:\\code\\Time\\Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj",
+              "RelativeToolTip": "Time.Services.TimeAPI\\Time.Services.TimeAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-01T04:26:42.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimeDto.cs",
+              "DocumentMoniker": "C:\\code\\Time\\Time.Services.TimeAPI\\Models\\Dto\\TimeDto.cs",
+              "RelativeDocumentMoniker": "Time.Services.TimeAPI\\Models\\Dto\\TimeDto.cs",
+              "ToolTip": "C:\\code\\Time\\Time.Services.TimeAPI\\Models\\Dto\\TimeDto.cs",
+              "RelativeToolTip": "Time.Services.TimeAPI\\Models\\Dto\\TimeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T03:13:07.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\code\\Time\\Time.Services.TimeAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Time.Services.TimeAPI\\Models\\Dto\\ResponseDto.cs",
+              "ToolTip": "C:\\code\\Time\\Time.Services.TimeAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "Time.Services.TimeAPI\\Models\\Dto\\ResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T03:13:20.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\code\\Time\\Time.Services.TimeAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Time.Services.TimeAPI\\appsettings.json",
+              "ToolTip": "C:\\code\\Time\\Time.Services.TimeAPI\\appsettings.json",
+              "RelativeToolTip": "Time.Services.TimeAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-01T03:09:33.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TimeController.cs",
+              "DocumentMoniker": "C:\\code\\Time\\Time.Services.TimeAPI\\Controllers\\TimeController.cs",
+              "RelativeDocumentMoniker": "Time.Services.TimeAPI\\Controllers\\TimeController.cs",
+              "ToolTip": "C:\\code\\Time\\Time.Services.TimeAPI\\Controllers\\TimeController.cs",
+              "RelativeToolTip": "Time.Services.TimeAPI\\Controllers\\TimeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:22:09.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimeService.cs",
+              "DocumentMoniker": "C:\\code\\Time\\Time.Services.TimeAPI\\Services\\IService\\TimeService.cs",
+              "RelativeDocumentMoniker": "Time.Services.TimeAPI\\Services\\IService\\TimeService.cs",
+              "ToolTip": "C:\\code\\Time\\Time.Services.TimeAPI\\Services\\IService\\TimeService.cs",
+              "RelativeToolTip": "Time.Services.TimeAPI\\Services\\IService\\TimeService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:28:56.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimeControllerIntegrationTests.cs",
+              "DocumentMoniker": "C:\\code\\Time\\TimeAPI.Tests\\IntegrationTests\\TimeControllerIntegrationTests.cs",
+              "RelativeDocumentMoniker": "TimeAPI.Tests\\IntegrationTests\\TimeControllerIntegrationTests.cs",
+              "ToolTip": "C:\\code\\Time\\TimeAPI.Tests\\IntegrationTests\\TimeControllerIntegrationTests.cs",
+              "RelativeToolTip": "TimeAPI.Tests\\IntegrationTests\\TimeControllerIntegrationTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:05:36.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\code\\Time\\Time.Services.TimeAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Time.Services.TimeAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\code\\Time\\Time.Services.TimeAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Time.Services.TimeAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-01T03:09:41.554Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
